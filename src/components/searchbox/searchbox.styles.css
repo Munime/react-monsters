@@ -1,0 +1,9 @@
+.searchbox {
+  margin: auto;
+  max-width: 200;
+  background-color: white;
+  padding: 25px;
+  cursor: pointer;
+  margin-bottom: 25px;
+  -moz-osx-font-smoothing: grayscale;
+}
